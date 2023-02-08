@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-po9@=+24f&kxr+g3m01l8%ct#-bqz+ugocf)xs)@ake5n6i4@y
 DEBUG = True
 
 ALLOWED_HOSTS = [
-"https://portfolio-gaurav.azurewebsites.net/"
+"https://portfolio-gaurav.azurewebsites.net/",
+    "portfolio-gaurav.azurewebsites.net/"
 
 
 ]
